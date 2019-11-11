@@ -1,13 +1,13 @@
 # SampleSpnnable
 
 ```
-Spannable의 이해를 돕기위한 샘플 코드 입니다.
+Spannable의 공부를 위한 샘플 코드 입니다.
 ```
 
 ## 구현항목
-* Ol
-* Ul
-* Li
+* [Ol](https://github.com/gyooha/SampleSpnnable/blob/master/app/src/main/java/io/seroo/samplespnnable/tags/Ol.kt)
+* [Ul](https://github.com/gyooha/SampleSpnnable/blob/master/app/src/main/java/io/seroo/samplespnnable/tags/Ul.kt)
+* [Li](#)
 
 ## 언어
 * Kotlin
